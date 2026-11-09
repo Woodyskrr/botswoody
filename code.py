@@ -23,7 +23,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 # НАСТРОЙКИ
 # =========================
 
-TOKEN = os.getenv("BOT_TOKEN", "ВСТАВЬ_СЮДА_ТОКЕН_БОТА")
+TOKEN = os.getenv("BOT_TOKEN", "9296190654:AAFdv4didPLz0y7DzQkWltkCZbuodNZzwaQ")
 ADMIN_ID = 8596393850
 DB_FILE = "giveaways.db"
 
